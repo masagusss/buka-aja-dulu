@@ -1,11 +1,11 @@
 // Daftar gambar slideshow (pastikan nama file dan ekstensi sesuai)
 let images = [
-    "images/kita2.JPG",
-    "images/kita3.JPG",
-    "images/kita4.JPG",
-    "images/kita5.JPG",
-    "images/kita6.JPG",
-    "images/kita7.JPEG "
+    "kita2.JPG",
+    "kita3.JPG",
+    "kita4.JPG",
+    "kita5.JPG",
+    "kita6.JPG",
+    "kita7.JPG "
 ];
 
 let index = 0;
